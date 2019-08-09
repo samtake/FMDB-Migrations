@@ -234,6 +234,6 @@ NSString *sql =[NSString stringWithFormat:@"DROP TABLE %@;",bakTable];
 [demo链接🔗]([https://github.com/samtake/FMDB-Migrations](https://github.com/samtake/FMDB-Migrations)
 )
 
-[简叔](https://www.jianshu.com/u/95eaa7893b88)
+[我的简书](https://www.jianshu.com/u/95eaa7893b88)
 
 
